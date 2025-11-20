@@ -147,19 +147,19 @@ Screenshots of each endpoint tested in Postman.
 
 ### GET /getPosts
 
-(see: screenshots/get.png)
+(./screenshots/get.png)
 
 ### POST /addPosts
 
-(see: screenshots/post.png)
+(./screenshots/post.png)
 
 ### DELETE /delPosts
 
-(see: screenshots/delete.png)
+(./screenshots/delete.png)
 
 ### PATCH /post/:id
 
-(see: screenshots/patch.png)
+(./screenshots/patch.png)
 
 ---
 
@@ -174,4 +174,5 @@ Screenshots of each endpoint tested in Postman.
 ## License
 
 This project was created for academic purposes as part of **Assignment 13**.
+
 
