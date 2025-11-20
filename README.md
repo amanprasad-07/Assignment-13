@@ -141,18 +141,25 @@ http://localhost:3000
 
 ---
 
-## Screenshots
+## API Testing Screenshots
 
-A dedicated folder named **`screenshots/`** is included to store verification images of your API operations.
+Screenshots of each endpoint tested in Postman.
 
-You may include the following screenshots:
+### GET /getPosts
 
-* **GET request screenshot** – `screenshots/get.png`
-* **POST request screenshot** – `screenshots/post.png`
-* **PATCH request screenshot** – `screenshots/patch.png`
-* **DELETE request screenshot** – `screenshots/delete.png`
+(see: screenshots/get.png)
 
-These images should capture responses from Postman, Thunder Client, or any API testing tool.
+### POST /addPosts
+
+(see: screenshots/post.png)
+
+### DELETE /delPosts
+
+(see: screenshots/delete.png)
+
+### PATCH /post/:id
+
+(see: screenshots/patch.png)
 
 ---
 
@@ -167,3 +174,4 @@ These images should capture responses from Postman, Thunder Client, or any API t
 ## License
 
 This project was created for academic purposes as part of **Assignment 13**.
+
